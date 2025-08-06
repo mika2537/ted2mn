@@ -12,6 +12,11 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+
+# Step 5: Navigate to the project directory.
+cd src/api
+# Step 6: Start the back-end server
+python3 back.py
 ```
 
 **Edit a file directly in GitHub**
